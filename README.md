@@ -1,14 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>SAHIL-0001</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="SAHIL-0001" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL-0001/" />
+<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL-0001/" />
+<meta property="og:site_name" content="SAHIL-0001" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="SAHIL-0001" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL-0001","name":"SAHIL-0001","url":"https://sahilu7777y7.github.io/SAHIL-0001/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/SAHIL-0001/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL-0001/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://sahilu7777y7.github.io/SAHIL-0001/">SAHIL-0001</a></h1>
+      
+
+      
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>�</title>
-<meta name="description" content="Market insights, numbers and trading-focused updates in one place.">
-<meta name="theme-color" content="#000000">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@700;900&family=Sora:wght@400;600&display=swap" rel="stylesheet">
+<meta name="description" content="Market insights, numbers and trading-focused updates in one place." />
+<meta name="theme-color" content="#000000" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@700;900&amp;family=Sora:wght@400;600&amp;display=swap" rel="stylesheet" />
 <style>
 :root{--bg:#000;--white:#fff;--soft:#a9b1c3;--blue:#1f6bff;--ice:#6fa3ff;--line:rgba(255,255,255,.14);
 --display:"Unbounded","Arial Black",Impact,sans-serif;--body:"Sora",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;box-sizing:border-box}
@@ -74,12 +115,10 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1648821663456121');
+fbq('init', '971926845983200');
 fbq('track', 'PageView');
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1648821663456121&ev=PageView&noscript=1"
-/></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=971926845983200&amp;ev=PageView&amp;noscript=1" /></noscript>
 <!-- End Meta Pixel Code -->
 </head>
 <body>
@@ -88,21 +127,21 @@ src="https://www.facebook.com/tr?id=1648821663456121&ev=PageView&noscript=1"
   <div class="grid"></div>
   <div class="bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
   <svg class="lines" viewBox="0 0 1200 800" preserveAspectRatio="none">
-    <path d="M0 640 L120 590 L230 615 L350 500 L470 540 L590 410 L710 460 L830 330 L950 370 L1070 250 L1200 280"/>
+    <path d="M0 640 L120 590 L230 615 L350 500 L470 540 L590 410 L710 460 L830 330 L950 370 L1070 250 L1200 280" />
   </svg>
   <div class="dust"><i></i><i></i><i></i><i></i><i></i></div>
 </div>
 <div class="wrap">
   <header>
-    <div class="brand"> 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
-    <a class="badge" href="https://t.me/+7nBh-2yM4U9hZTM1" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
+    <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
+    <a class="badge" href="https://t.me/+XpCYXRCEb55kYjdl" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
   </header>
   <main>
     <section class="hero">
-      <h1> 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
+      <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
-      <a class="cta" href="https://t.me/+7nBh-2yM4U9hZTM1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
+      <a class="cta" href="https://t.me/+XpCYXRCEb55kYjdl" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
     </section>
 
     <!-- REAL REVIEWS ONLY: paste genuine, permitted member feedback here, then remove this comment.
@@ -116,4 +155,12 @@ src="https://www.facebook.com/tr?id=1648821663456121&ev=PageView&noscript=1"
   <footer>© 2026 𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿� All rights reserved.</footer>
 </div>
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
