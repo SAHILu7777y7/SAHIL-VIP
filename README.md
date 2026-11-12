@@ -6,21 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>SAHIL-0001</title>
+<title>SAHIL VIP CHANNEL</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="SAHIL-0001" />
+<meta property="og:title" content="SAHIL VIP CHANNEL" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL-0001/" />
-<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL-0001/" />
-<meta property="og:site_name" content="SAHIL-0001" />
+<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/" />
+<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/" />
+<meta property="og:site_name" content="SAHIL VIP CHANNEL" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SAHIL-0001" />
+<meta property="twitter:title" content="SAHIL VIP CHANNEL" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL-0001","name":"SAHIL-0001","url":"https://sahilu7777y7.github.io/SAHIL-0001/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL VIP CHANNEL","name":"SAHIL VIP CHANNEL","url":"https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/SAHIL-0001/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
+    <link rel="stylesheet" href="/SAHIL VIP CHANNEL/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -28,7 +28,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL-0001/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL VIP CHANNEL/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -36,7 +36,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://sahilu7777y7.github.io/SAHIL-0001/">SAHIL-0001</a></h1>
+      <h1><a href="https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/">SAHIL VIP CHANNEL</a></h1>
       
 
       
@@ -134,14 +134,14 @@ fbq('track', 'PageView');
 <div class="wrap">
   <header>
     <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
-    <a class="badge" href="https://t.me/+XpCYXRCEb55kYjdl" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
+    <a class="badge" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
   </header>
   <main>
     <section class="hero">
       <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
-      <a class="cta" href="https://t.me/+XpCYXRCEb55kYjdl" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
+      <a class="cta" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
     </section>
 
     <!-- REAL REVIEWS ONLY: paste genuine, permitted member feedback here, then remove this comment.
