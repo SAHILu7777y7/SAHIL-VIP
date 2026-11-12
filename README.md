@@ -18,10 +18,10 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://sahilu7777y7.github.io/SAHIL VIP/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://sahilu7777y7.github.io//"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/SAHIL VIP/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
+    <link rel="stylesheet" href="//assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -37,9 +37,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://sahilu7777y7.github.io/SAHIL VIP/">SAHIL VIP</a></h1>
-      
-SAHIL VIP
+      <h1><a href="https://sahilu7777y7.github.io/SAHIL VIP/">SAHIL VIP</a></h1
       
 <html lang="en">
 <head>
