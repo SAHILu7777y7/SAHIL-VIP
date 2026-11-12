@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL VIP","name":"SAHIL VIP","url":"https://sahilu7777y7.github.io/SAHIL VIP/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://sahilu7777y7.github.io/SAHIL VIP/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/SAHIL VIP/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
@@ -29,7 +29,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL VIP/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="//favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -39,14 +39,14 @@
       
       <h1><a href="https://sahilu7777y7.github.io/SAHIL VIP/">SAHIL VIP</a></h1>
       
-
+SAHIL VIP
       
 <html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>�</title>
-<meta name="description" content="Market insights, numbers and trading-focused updates in one place." />
+<meta name="description" content="aa jao 150k log phale se join huye hai" />
 <meta name="theme-color" content="#000000" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
