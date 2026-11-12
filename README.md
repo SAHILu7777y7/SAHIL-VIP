@@ -9,19 +9,19 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>L</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="SAHIL VIP CHANNEL" />
+<meta property="og:title" content="SAHIL VIP" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/" />
-<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/" />
-<meta property="og:site_name" content="SAHIL VIP CHANNEL" />
+<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL VIP/" />
+<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL VIP/" />
+<meta property="og:site_name" content="SAHIL VIP" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SAHIL VIP CHANNEL" />
+<meta property="twitter:title" content="SAHIL VIP" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL VIP CHANNEL","name":"SAHIL VIP CHANNEL","url":"https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL VIP","name":"SAHIL VIP","url":"https://sahilu7777y7.github.io/SAHIL VIP/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/SAHIL VIP CHANNEL/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
+    <link rel="stylesheet" href="/SAHIL VIP/assets/css/style.css?v=bdbea7b7562535c36a641c2931ffcba7a17ba2f9">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -29,7 +29,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL VIP CHANNEL/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/SAHIL VIP/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -37,7 +37,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://sahilu7777y7.github.io/SAHIL VIP CHANNEL/">SAHIL VIP CHANNEL</a></h1>
+      <h1><a href="https://sahilu7777y7.github.io/SAHIL VIP/">SAHIL VIP</a></h1>
       
 
       
@@ -134,12 +134,12 @@ fbq('track', 'PageView');
 </div>
 <div class="wrap">
   <header>
-    <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
+    <div class="brand">SAHIL VIP�</div>
     <a class="badge" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
   </header>
   <main>
     <section class="hero">
-      <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
+      <h1>SAHIL VIP�</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
       <a class="cta" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
@@ -153,7 +153,7 @@ fbq('track', 'PageView');
 
     <p class="note">Content is for information only and is not investment advice. Markets carry risk, and past performance does not guarantee future results.</p>
   </main>
-  <footer>© 2026 𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿� All rights reserved.</footer>
+  <footer>© 2026 SAHIL VIP�� 🗿� All rights reserved.</footer>
 </div>
 </body>
 </html>
