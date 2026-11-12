@@ -13,10 +13,10 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://sahilu7777y7.github.io//" />
 <meta property="og:url" content="https://sahilu7777y7.github.io//" />
-<meta property="og:site_name" content="SAHIL VIP" />
+<meta property="og:site_name" content="" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SAHIL VIP" />
+<meta property="twitter:title" content="" />
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"SAHIL VIP","name":"SAHIL VIP","url":"https://sahilu7777y7.github.io/SAHIL VIP/"}</script>
 <!-- End Jekyll SEO tag -->
