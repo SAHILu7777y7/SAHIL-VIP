@@ -134,12 +134,12 @@ fbq('track', 'PageView');
 </div>
 <div class="wrap">
   <header>
-    <div class="brand">SAHIL VIP�</div>
+    <div class="brand">SAHIL VIP</div>
     <a class="badge" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
   </header>
   <main>
     <section class="hero">
-      <h1>SAHIL VIP�</h1>
+      <h1>SAHIL VIP</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
       <a class="cta" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
@@ -153,7 +153,7 @@ fbq('track', 'PageView');
 
     <p class="note">Content is for information only and is not investment advice. Markets carry risk, and past performance does not guarantee future results.</p>
   </main>
-  <footer>© 2026 SAHIL VIP�� 🗿� All rights reserved.</footer>
+  <footer>© 2026 SAHIL VIP 🗿� All rights reserved.</footer>
 </div>
 </body>
 </html>
