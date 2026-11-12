@@ -139,7 +139,6 @@ fbq('track', 'PageView');
   </header>
   <main>
     <section class="hero">
-      <h1>SAHIL VIP</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
       <a class="cta" href="https://t.me/+8Gs5tuWDpbVmMWI1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
