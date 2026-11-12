@@ -9,10 +9,10 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>L</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="SAHIL VIP" />
+<meta property="og:title" content="" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://sahilu7777y7.github.io/SAHIL VIP/" />
-<meta property="og:url" content="https://sahilu7777y7.github.io/SAHIL VIP/" />
+<link rel="canonical" href="https://sahilu7777y7.github.io//" />
+<meta property="og:url" content="https://sahilu7777y7.github.io//" />
 <meta property="og:site_name" content="SAHIL VIP" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
