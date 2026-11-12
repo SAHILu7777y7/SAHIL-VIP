@@ -1,12 +1,13 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta h
+      ttp-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>SAHIL VIP CHANNEL</title>
+<title>L</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="SAHIL VIP CHANNEL" />
 <meta property="og:locale" content="en_US" />
